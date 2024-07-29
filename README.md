@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente trabalho na  Techocean Engineering Solutions como assistente de TI.<br>Recentemente adquiri o curso da Alura e to gostando de aprender sobre a área da programação.<br>
+Atualmente trabalho na Techocean Engineering Solutions como Analista de TI.<br>Recentemente adquiri o curso da Alura e to gostando de aprender sobre a área da programação.<br>
 
 
 ## 🌐 Socials:
